@@ -60,16 +60,14 @@ This project demonstrates how to deploy a static website using **Amazon S3**. It
 
 ## 📸 Screenshots
 
-Add the following to your `screenshots/` folder and link them here in the README:
-
 | Task | Screenshot |
 |------|------------|
-| Static Website Enabled | ![Static Hosting](screenshots/01-static-hosting.png) |
-| Public Access Policy | ![Bucket Policy](screenshots/02-bucket-policy.png) |
-| Website Preview | ![Site Preview](screenshots/03-site-preview.png) |
-| Versioning Enabled | ![Versioning](screenshots/04-versioning.png) |
-| Lifecycle Rules | ![Lifecycle](screenshots/05-lifecycle.png) |
-| Replication Setup | ![Replication](screenshots/06-replication.png) |
+| Static Website Enabled | ![Static Hosting](https://github.com/Mzajirow/Static-Website-With-S3/blob/main/01-Static%20website%20hosting%20enabled.png?raw=true) |
+| Public Access Policy | ![Bucket Policy](https://github.com/Mzajirow/Static-Website-With-S3/blob/main/02-Bucket%20Policy.png?raw=true) |
+| Website Preview | ![Site Preview](https://github.com/Mzajirow/Static-Website-With-S3/blob/main/03-Site%20Preview.png?raw=true) |
+| Versioning Enabled | ![Versioning](https://github.com/Mzajirow/Static-Website-With-S3/blob/main/04-Versioning%20Enabled.png?raw=true) |
+| Lifecycle Rules | ![Lifecycle](https://github.com/Mzajirow/Static-Website-With-S3/blob/main/05-Lifecycle%20Configuration.png?raw=true) |
+| Replication Setup | ![Replication](https://github.com/Mzajirow/Static-Website-With-S3/blob/main/6-Replication%20Rules.png?raw=true) |
 
 ---
 
