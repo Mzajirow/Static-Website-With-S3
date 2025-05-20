@@ -65,10 +65,10 @@ Add the following to your `screenshots/` folder and link them here in the README
 | Task | Screenshot |
 |------|------------|
 | Static Website Enabled | ![Static Hosting](screenshots/01-static-hosting.png) |
-| Public Access Policy | ![Bucket Policy](01 - S3 Bucket Policy.png) |
-| Website Preview | ![Site Preview](02 - Static Website Homepage.png) |
+| Public Access Policy | ![Bucket Policy](screenshots/02-bucket-policy.png) |
+| Website Preview | ![Site Preview](screenshots/03-site-preview.png) |
 | Versioning Enabled | ![Versioning](screenshots/04-versioning.png) |
-| Lifecycle Rules | ![Lifecycle]([04 - Lifecycle rules.png](https://github.com/Mzajirow/Static-Website-With-S3/blob/61204db142e3060e818e7a04d52e0110111d51c1/04%20-%20Lifecycle%20rules.png)) |
+| Lifecycle Rules | ![Lifecycle](screenshots/05-lifecycle.png) |
 | Replication Setup | ![Replication](screenshots/06-replication.png) |
 
 ---
